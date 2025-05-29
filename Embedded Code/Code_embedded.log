@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\khale\Desktop\Embedded Full Project\Embedded Code\Code_embedded.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\khale\Desktop\Embedded Full Project\Embedded Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Code_embedded.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Code_embedded.c
+diagnostics: 196	123	Compiled Successfully	Code_embedded.c
+hint: 92	1164	Variable 'temp' has been eliminated by optimizer	Code_embedded.c
+hint: 93	1164	Variable 'adc_val' has been eliminated by optimizer	Code_embedded.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 37 (11%)  Free RAM (bytes): 315 (89%)	Used RAM (bytes): 37 (11%)  Free RAM (bytes): 315 (89%)
+hint: 0	1144	Used ROM (program words): 923 (11%)  Free ROM (program words): 7269 (89%)	Used ROM (program words): 923 (11%)  Free ROM (program words): 7269 (89%)
+diagnostics: 0	125	Project Linked Successfully	Code_embedded.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'Code_embedded.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 29 May 2025, 03:51:50	Code_embedded.mcppi
